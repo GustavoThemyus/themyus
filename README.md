@@ -7,6 +7,7 @@ With 1 year of experience in the technology field, in addition to growth in cust
 - 🎓 Graduating in Computer Science (UNIPÊ)
 - 🧠 Focus on frontend development and clean UI architecture
 
+
 ---
 
 ## 🛠️ Tech Stack & Tools
