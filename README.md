@@ -10,9 +10,9 @@ With 1 year of experience in the technology field, in addition to growth in cust
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-### 🔹 Full-Stack Development and Architecture
+#### 🔹 Full-Stack Development and Architecture
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -25,14 +25,14 @@ With 1 year of experience in the technology field, in addition to growth in cust
 
 ---
 
-### 🔹 Databases & DevOps
+#### 🔹 Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" height="160"/>
